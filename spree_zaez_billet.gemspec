@@ -1,7 +1,7 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'solidus_zaez_billet'
+  s.name        = 'spree_zaez_billet'
   s.version     = '1.1.0'
   s.summary     = 'Adds Billet as a Payment Method to Spree Commerce'
   s.description = s.summary
